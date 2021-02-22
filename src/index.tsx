@@ -1,9 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+// Components
+import { App } from './App'
+// Style
 import './style.scss'
 
 
 ReactDOM.render(
-    <h1>Holy Fu**ng World!!</h1>,
+    <App />,
     document.querySelector('#root')
 )
