@@ -1,9 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;700&display=swap');
 @import 'components\ /nav/nav.style';
+@import 'components\ /item/main-item.style';
+@import 'components\ /item/catalog-item.style';
+// @import 'components\ /item/item.style';
 
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Noto Sand JP', sans-serif;
+}
+
+main {
+    padding: 100px;
 }
