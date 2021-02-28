@@ -8,6 +8,7 @@ import { IItem } from './types'
 const item: IItem = {
     "id": 1,
     "category": 0,
+    "type": 0,
     "name": "Nikon",
     "model": "D5300 DSLR Camera 18-55mm", 
     "images": [
