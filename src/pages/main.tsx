@@ -29,7 +29,9 @@ const item: IItem = {
 export const Main = () => {
     return (
         <Fragment>
-            <Helmet>Magic Shop</Helmet>
+            <Helmet>
+                <title>Magic Shop</title>
+            </Helmet>
             
             <MainItem {...item} />
             <MainItem {...item} />

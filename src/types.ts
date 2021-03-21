@@ -10,3 +10,9 @@ export interface IItem {
     images: string[],
     id: number
 }
+
+export interface ISortItems {
+    name: string,
+    type: string,
+    elements: string[]
+}

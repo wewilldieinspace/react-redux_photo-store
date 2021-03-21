@@ -2,13 +2,18 @@
 @import 'components\ /nav/nav.style';
 @import 'components\ /item/main-item.style';
 @import 'components\ /item/catalog-item.style';
-// @import 'components\ /item/item.style';
+@import 'components\ /sort-category/sort.style';
+
 
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Noto Sand JP', sans-serif;
+}
+
+ul {
+    list-style: none;
 }
 
 main {
