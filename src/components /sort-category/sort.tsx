@@ -5,11 +5,12 @@ import { SortPopup } from './sort-popup'
 import { ISortItems } from '../../types'
 
 
-// interface ISortItems {
+// interface IItem {
 //     name: string,
 //     type: string,
 //     elements: Array<string>
 // }
+
 
 
 const sortItems: any = [
@@ -24,7 +25,7 @@ export const Sort = () => {
         <div className="sort">
             <ul className="sort-list">
                 {
-                    sortItems.length && sortItems.map((el: any, i: any) => {
+                    sortItems.length && sortItems.map((el: ISortItems, i: number) => {
                         const { name, type, elements } = el
                         return (
                             <SortPopup

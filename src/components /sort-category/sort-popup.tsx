@@ -12,9 +12,10 @@ export const SortPopup = ({ name, type, elements }: ISortItems) => {
 
     const categoryArr = ['Nikon', 'Canon', 'Sony']
 
+    console.log('activeItem', activeItem)
 
-    const sortPopupHandler = (value: number | null) => {
-        setActiveItem((state: number | null) => value)
+    const sortPopupHandler = (index: number | null) => {
+        setActiveItem(index)
     }
 
     const togglePopUp = () => {
@@ -35,7 +36,7 @@ export const SortPopup = ({ name, type, elements }: ISortItems) => {
 
     return (
         <li className="sort-list__element">
-            <p>{ name }</p>
+            <p>{ name }:</p>
             <div 
                 className='sort-list__element__input'
                 ref={popupRef}
@@ -47,9 +48,8 @@ export const SortPopup = ({ name, type, elements }: ISortItems) => {
                 >
                     <li
                         className='sort-list__element__pop-up__element--active'
-                        onClick={() => sortPopupHandler(null)}
                     >
-                        {!activeItem ? 'All' : elements[activeItem]}
+                        { activeItem == null ? 'All' : elements[activeItem] }
                     </li>
                     {
                         isOpen && (
@@ -57,7 +57,8 @@ export const SortPopup = ({ name, type, elements }: ISortItems) => {
                                 <hr/>
                                 <li
                                     className={`sort-list__element__pop-up__element 
-                                    ${!activeItem ? 'sort-list__element__pop-up__element--active' : ''}`}
+                                    ${activeItem == null ? 'sort-list__element__pop-up__element--active' : ''}`}
+                                    onClick={() => sortPopupHandler(null)}
                                 >
                                     All
                                 </li>

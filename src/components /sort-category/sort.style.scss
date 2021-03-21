@@ -1,11 +1,16 @@
 .sort {
+    position: fixed;
+    // top: 50px;
     width: 100%;
     min-height: 40px;
+    backdrop-filter: saturate(150%) blur(20px);
+}
 
     .sort-list {
         display: flex;
         flex-flow: row wrap;
-        padding: 10px 50px;
+        padding: 15px 50px;
+        border-bottom: .5px solid #464646;
 
         .sort-list__element {
             display: flex;
@@ -14,8 +19,8 @@
             margin-left: 50px;
 
             p {
-                font-size: 18px;
-                font-weight: 400;
+                font-size: 14px;
+                font-weight: 300;
             }
             .sort-list__element__input {
                 min-width: 100px;
@@ -26,16 +31,18 @@
                 .sort-list__element__pop-up {
                     width: 100%;
                     min-height: 100%;
-                    // overflow: hidden;
+                    overflow: scroll;
 
                     border: .5px solid #000;
                     border-radius: 4px;
+
+                    background-color: #fff;
 
                     .sort-list__element__pop-up__element {
                         width: 100%;
                         padding: 4px 12px;
 
-                        font-size: 15px;
+                        font-size: 14px;
                         font-weight: 400;
 
                         cursor: pointer;
@@ -52,7 +59,7 @@
 
                     .sort-list__element__pop-up__element--active {
                         padding: 4px 12px;
-                        font-weight: 600;
+                        // font-weight: 600;
                         background-color: #eaeaea;
 
                         cursor: pointer;
@@ -62,9 +69,8 @@
                 .sort-list__element__pop-up--open {
                     min-height: 100%;
                     max-height: 250px;
-                    overflow: scroll;
                 }
-            }
+            // }
         }
     }
 }

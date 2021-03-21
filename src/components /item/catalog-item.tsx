@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { IItem } from '../../types'
+import { ICatalogItem } from '../../types'
 
 
-export const CatalogItem = ({ name, model, price, images, id }: IItem) => {
+export const CatalogItem = ({ name, model, price, images, id }: ICatalogItem) => {
     return (
         <div 
             className='catalog-item'>
