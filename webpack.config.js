@@ -4,8 +4,8 @@ module.exports = {
     entry: './src/index.tsx',
     output: {
         filename: 'index.js',
-        path: path.join(__dirname, 'public')
-    }, 
+        path: path.join(__dirname, 'dist')
+    },
     mode: 'development',
     module: {
         rules: [
@@ -24,19 +24,19 @@ module.exports = {
                 use: [
                     'style-loader',
                     'css-loader',
-                    'sass-loader'
+                    'sass-loader',
                 ]
             },
         ]
     },
     resolve: {
         extensions: [
-            '.js', '.jsx', '.ts', '.tsx', '.json'
+            '.js', '.ts', '.tsx', '.json'
         ]
     },
     devtool: 'source-map',
     devServer: {
-        contentBase: path.join(__dirname, 'public'),
+        contentBase: path.join(__dirname, 'dist'),
         port: 4000,
         historyApiFallback: true
     }

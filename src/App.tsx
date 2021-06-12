@@ -1,37 +1,17 @@
-import React from 'react'
-import { BrowserRouter as Router, Route, Switch  } from 'react-router-dom'
-// Components
-import { Nav, MainItem, CatalogItem } from './components '
-import { IItem } from './types'
-// Pages
-import { Main,
-    Catalog,
-    ItemPage,
-    Cart,
-} from './pages'
+import React, {useEffect} from 'react'
+import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 
 export const App = () => {
+    useEffect(() => {
+        document.title = 'Asshole'
+    }, [])
     return (
-        <div 
-            className='container'
-        >
+        <div className='container'>
             <Router>
-            <Nav />
-                <main>
-                    <Route exact path='/'>
-                        <Main />
-                    </Route>
-                    <Route exact path='/catalog'>
-                        <Catalog />
-                    </Route>
-                    <Route exact path='/item/:id'>
-                        <ItemPage />
-                    </Route>
-                    <Route exact path='/cart'>
-                        <Cart />
-                    </Route>
-                </main>
+                <Route exact path='/'>
+                    <h1>SHIT!SHIT!SHIT!</h1>
+                </Route>
             </Router>
         </div>
     )
