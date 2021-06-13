@@ -10,7 +10,7 @@ export const App = () => {
         <div className='container'>
             <Router>
                 <Route exact path='/'>
-                    <h1>SHIT!SHIT!SHIT!</h1>
+                    <h1>Application</h1>
                 </Route>
             </Router>
         </div>
