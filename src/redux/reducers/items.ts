@@ -15,6 +15,11 @@ export const items = (state = initialState, action: AnyAction) => {
                 items: action.payload,
                 isLoaded: true
             }
+        case types.GET_ONE_ITEM:
+            return {
+                ...state,
+                item: action.payload[0]
+            }
         default: 
             return initialState
     } 

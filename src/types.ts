@@ -13,6 +13,7 @@ export interface IItem {
 }
 
 export interface IMainPageItem {
+    id: number,
     name: string,
     model: string,
     description: string,
