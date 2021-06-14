@@ -1,5 +1,6 @@
 // @import 'components\/nav/nav.style';
 @import 'components\/nav/nav.style';
+@import 'components\/item/item.style';
 
 
 *{
@@ -9,4 +10,19 @@
   list-style: none;
 }
 
-.container {}
+p, h1, h2, h3 {
+  cursor: default;
+
+  &::selection {
+      color: #f5f5f7;
+      background-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  padding: 50px 100px;
+}

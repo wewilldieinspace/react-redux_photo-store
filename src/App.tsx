@@ -10,9 +10,10 @@ import { MainNav } from './components'
 
 export const App = () => {
     return (
-        <div className='container'>
             <Router>
                 <MainNav />
+                <div className='container'>
+
                 <Route exact path='/'>
                     <Main />
                 </Route>
@@ -25,7 +26,7 @@ export const App = () => {
                 <Route exact path='/basket'>
                     <Basket />
                 </Route>
+                </div>
             </Router>
-        </div>
     )
 }

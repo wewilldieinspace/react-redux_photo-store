@@ -1,13 +1,36 @@
-export interface ItemI {
-    id?: number,
-    itemId: number | undefined,
+export interface IItem {
     name: string,
     model: string,
+    category: number,
+    type: number,
+    shortDescription: string,
+    description: string,
+    features: string[],
     price: number,
-    img: string | string[]
+    images: string[],
+    id: number
 }
 
-export interface FatchedItemsI extends ItemI {
+export interface ICatalogItem {
+    name: string,
+    model: string,
     category: number,
-    img: string[]
+    type: number,
+    price: number,
+    images: string[],
+    id: number
+}
+
+export interface ICartItem {
+    name: string,
+    model: string,
+    type: string,
+    image: string, 
+    id: number
+}
+
+export interface ISortItems {
+    name: string,
+    type: string,
+    elements: string[]
 }
