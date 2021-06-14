@@ -6,7 +6,7 @@ import { store } from './redux/store'
 // Components
 import { App } from './App'
 // Style
-import './style/index.scss'
+import './index.scss'
 
 
 render(
