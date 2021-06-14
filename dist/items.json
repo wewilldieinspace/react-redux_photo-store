@@ -1,0 +1,369 @@
+{
+  "items": [
+      {
+        "id": 1,
+        "category": 0,
+        "type": 0,
+        "name": "Nikon",
+        "model": "D5300 DSLR Camera 18-55mm", 
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/nikon_1564ob_d5300_dslr_camera_with_1589278070_1532031.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1589277670_IMG_364629.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1589277670_IMG_364630.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1589277670_IMG_364631.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1589277670_IMG_364634.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1589277670_IMG_364635.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1589278070_1532031.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1589277670_IMG_364629.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1589277670_IMG_364630.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1589277670_IMG_364631.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1589277670_IMG_364634.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1589277670_IMG_364635.jpg"
+        ],
+        "price": 570,
+        "features": ["24.2MP DX-Format CMOS Sensor", "EXPEED 4 Image Processor", "No Optical Low-Pass Filter", "3.2\" 1,037k-Dot Vari-Angle LCD Monitor", "Full HD 1080p Video Recording at 60 fps", "Multi-CAM 4800DX 39-Point AF Sensor", "Extended ISO 25600, 5 fps Shooting", "Built-In Wi-Fi and GPS Connectivity", "AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR"],
+        "description": "The black Nikon D5300 DSLR Camera features a DX-format 24.2-megapixel sensor and EXPEED 4 image processor to produce high-resolution still imagery and full HD video with notable low-light sensitivity to ISO 12800 and a fast-continuous shooting rate of 5 fps. The sensor design omits the traditional optical low-pass filter in order to gain the utmost sharpness and resolution from both photos and videos. Complementing the imaging assets are both a versatile 39-point autofocus system, with nine cross-type sensors, and a 2016-pixel RGB sensor for precise exposure metering in a wide variety of lighting conditions. Additionally, 1920 x 1080p movie recording is supported, in multiple frame rates up to 60 fps, with full-time continuous auto focusing capabilities.\n\n"
+      },
+      {
+        "id": 2,
+        "category": 1,
+        "type": 0,
+        "name": "Nikon",
+        "model": "D3500 DSLR Camera 18-55mm",
+        "images_x500": [
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1535598024_IMG_1056607.jpg",
+          "https://static.bhphoto.com/images/images500x500/nikon_1590_d3500_dslr_camera_with_1535597416_1433064.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1535598024_IMG_1056606.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1535598024_IMG_1056605.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1535598024_IMG_1056609.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1535598024_IMG_1056613.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1535598024_IMG_1056607.jpg",
+          "https://static.bhphoto.com/images/smallimages/1535597416_1433064.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1535598024_IMG_1056606.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1535598024_IMG_1056605.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1535598024_IMG_1056609.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1535598024_IMG_1056613.jpg"
+
+        ],
+        "price": 419,
+        "features": ["24.2MP DX-Format CMOS Sensor", "EXPEED 4 Image Processor", "No Optical Low-Pass Filter", "Native ISO 100-25600; 5 fps Shooting", "3.0\" 921k-Dot LCD Monitor", "Full HD 1080p Video Recording at 60 fps", "Multi-CAM 1000 11-Point AF System", "SnapBridge Bluetooth Connectivity", "Guide Mode and Special Effects", "AF-P DX 18-55mm f/3.5-5.6G VR Lens"],
+        "description": "Compact, easy to use, and versatile are all traits of the Nikon D3500, which is designed to be as flexible and intuitive as possible, while still offering the imaging capabilities you expect from a DSLR. Utilizing a DX-format 24.2MP CMOS sensor and EXPEED 4 image processor, the D3500 provides a native sensitivity range from ISO 100-25600 to suit working in a variety of lighting conditions, and the sensor and processor combination also provides a 5 fps continuous shooting rate as well as Full HD 1080p video recording at 60 fps."
+      },
+      {
+        "id": 3,
+        "category": 1,
+        "type": 1,
+        "name": "Nikon",
+        "model": "Z 6II Mirrorless Digital Camera 24-70mm f/4",
+        "images_x500": [
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1602642963_IMG_1428925.jpg",
+          "https://static.bhphoto.com/images/images500x500/1602636583_1598721.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1602642963_IMG_1428922.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1602642963_IMG_1428926.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1602642963_IMG_1428920.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1602642963_IMG_1428927.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642963_IMG_1428925.jpg",
+          "https://static.bhphoto.com/images/smallimages/1602636583_1598721.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642963_IMG_1428922.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642963_IMG_1428926.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642963_IMG_1428920.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642963_IMG_1428927.jpg"
+        ],
+        "price": 1.999,
+        "features": ["24.5MP FX-Format BSI CMOS Sensor", "14 fps Cont. Shooting, ISO 100-51200", "UHD 4K30 Video; N-Log & 10-Bit HDMI Out", "273-Point Phase-Detect AF System", "3.2\" 2.1m-Dot Tilting Touchscreen LCD", "3.6m-Dot OLED Electronic Viewfinder", "5-Axis In-Body Vibration Reduction", "Dual Memory Card Slots"],
+        "description": "More speed, more versatility, more performance, the Nikon Z 6II is an updated take on the all-rounder mirrorless camera designed for high-end photo and video applications. Despite the wealth of upgrades, the Z 6II retains its familiar form factor and prized image quality to benefit working multimedia image-makers."
+      },
+      {
+        "id": 4,
+        "category": 0,
+        "type": 0,
+        "name": "Nikon",
+        "model": "D750 DSLR Camera 24-120mm",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/1545998797_1082604.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1540459811_IMG_923516.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1540459811_IMG_423550.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1540459811_IMG_423548.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1540459813_IMG_423552.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1540459813_IMG_915864.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1545998797_1082604.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1540459811_IMG_923516.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1540459811_IMG_423550.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1540459811_IMG_423548.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1540459813_IMG_423552.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1540459813_IMG_915864.jpg"
+        ],
+        "price": 1.996,
+        "features": ["24.3MP FX-Format CMOS Sensor", "EXPEED 4 Image Processor", "3.2\" 1,229k-Dot RGBW Tilting LCD Monitor\n", "Full HD 1080p Video Recording at 60 fps", "Multi-CAM 3500FX II 51-Point AF Sensor", "Native ISO 12800, Extended to ISO 51200", "Continuous Shooting Up to 6.5 fps", "91k-Pixel RGB Sensor and Group Area AF", "Built-In Wi-Fi Connectivity", "AF-S NIKKOR 24-120mm f/4G ED VR Lens"],
+        "description": "Championing a multimedia approach to photography, Nikon's D750 DSLR is an FX-format camera well-suited to both still imaging and video recording. Featuring a 24.3MP CMOS sensor, along with the EXPEED 4 image processor, this camera is capable of producing high-resolution imagery with smooth color gradations, low noise, and sensitivity to an expandable ISO 51200, at a continuous rate of up to 6.5 fps. In regard to video recording, full HD 1080p/60 is supported, along with the ability to record uncompressed video to an optional external recorder."
+      },
+      {
+        "id": 5,
+        "category": 1,
+        "type": 0,
+        "name": "Nikon",
+        "model": "COOLPIX B600",
+        "images_x500": [
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1551178070_IMG_1145833.jpg",
+          "https://static.bhphoto.com/images/images500x500/1551178028_1462783.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1551178070_IMG_1145836.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1551178070_IMG_1145835.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1551178070_IMG_1145838.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1551178070_IMG_1145833.jpg",
+          "https://static.bhphoto.com/images/smallimages/1551178028_1462783.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1551178070_IMG_1145836.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1551178070_IMG_1145835.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1551178070_IMG_1145838.jpg"
+        ],
+        "price": 326,
+        "features": ["16MP 1/2.3\" CMOS Sensor", "Zoom-NIKKOR ED 60x Zoom Lens", "Full HD Video Recording", "Body Design and Built-In Wi-Fi"],
+        "description": "With a long zoom and apt imaging, the black Nikon COOLPIX B600 is a flexible point-and-shoot suitable for photographing in a wide variety of conditions. A 16MP CMOS sensor and EXPEED image processing yield high-resolution, well-defined imagery with a broad ISO 125-6400 sensitivity range and a quick 7-fps shooting rate for photographing moving subjects."
+      },
+      {
+        "id": 6,
+        "category": 0,
+        "type": 1,
+        "name": "Canon",
+        "model": "EOS M50 Mark II",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images1000x1000/1602634176_1598385.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1602642537_IMG_1428045.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1602642537_IMG_1428047.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1602642537_IMG_1428041.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1602642537_IMG_1428044.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1602642537_IMG_1428046.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1602634176_1598385.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642537_IMG_1428045.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642537_IMG_1428047.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642537_IMG_1428041.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642537_IMG_1428044.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1602642537_IMG_1428046.jpg"
+        ],
+        "price": 699,
+        "features": ["24.1MP APS-C CMOS Sensor", "DIGIC 8 Image Processor", "UHD 4K and HD 720p120 Video Recording", "Dual Pixel CMOS AF with Eye Detect AF", "2.36m-Dot OLED Electronic Viewfinder", "3.0\" 1.04m-Dot Vari-Angle Touchscreen", "Wi-Fi and Bluetooth; Webcam Capability", "Extended ISO 51200, 10 fps Shooting", "Combination 5-Axis Image Stabilization", "EF-M 15-45mm f/3.5-6.3 IS STM Lens"],
+        "description": "Catering to vloggers and content creators, the black Canon EOS M50 Mark II is a versatile multimedia camera with a well-rounded photo and video feature-set. Sporting improved focusing, recording, and sharing capabilities, the M50 Mark II still revolves around the proven 24.1MP APS-C CMOS sensor and DIGIC 8 image processor, which enable a quick 10 fps shooting rate, a native sensitivity range of ISO 100-25600, and UHD 4K video recording at 23.98 fps, along with Full HD 1080p60 and HD 720p120 for slow motion capture."
+      },
+      {
+        "id": 7,
+        "category": 1,
+        "type": 1,
+        "name": "Canon",
+        "model": "EOS R6 Mirrorless Digital Camera 24-105mm f/4L",
+        "images_x500": [
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1594281073_IMG_1384585.jpg",
+          "https://static.bhphoto.com/images/images1000x1000/1594281159_1573880.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1594281073_IMG_1384583.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1594281073_IMG_1384582.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1594281073_IMG_1384584.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1594281073_IMG_1384585.jpg",
+          "https://static.bhphoto.com/images/smallimages/1594281159_1573880.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1594281073_IMG_1384583.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1594281073_IMG_1384582.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1594281073_IMG_1384584.jpg"
+        ],
+        "price": 3.599,
+        "features": ["20MP Full-Frame CMOS Sensor", "\nDIGIC X Image Processor", "4K60 and FHD 120 10-Bit Internal Video", "Sensor-Shift 5-Axis Image Stabilization", "12 fps Mech. Shutter, 20 fps E. Shutter", "Dual Pixel CMOS AF with 1053 Points", "3.69m-Dot OLED EVF", "3.2\" Vari-Angle Touchscreen LCD", "Subject Tracking with Deep Learning", "RF 24-105mm f/4L IS USM Lens"],
+        "description": "For the everyday shooter with high demands, the Canon EOS R6 is a versatile tool to meet the photo and video requirements of a contemporary imaging workflow. This full-frame mirrorless camera revolves around a refined 20MP CMOS sensor and DIGIC X processor, which afford quick shooting up to 12 fps, apt 4K60 video recording, and wide-ranging sensitivity to ISO 102400."
+      },
+      {
+        "id": 8,
+        "category": 1,
+        "type": 1,
+        "name": "Canon",
+        "model": "Rebel T7 DSLR Camera 18-55mm",
+        "images_x500": [
+          "https://static.bhphoto.com/images/multiple_images/images1000x1000/1550657757_IMG_1142146.jpg",
+          "https://static.bhphoto.com/images/images500x500/1550657171_1461734.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1550657757_IMG_1142149.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1550657757_IMG_1142150.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1550657757_IMG_1142147.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1550657757_IMG_1142146.jpg",
+          "https://static.bhphoto.com/images/smallimages/1550657171_1461734.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1550657757_IMG_1142149.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1550657757_IMG_1142150.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1550657757_IMG_1142147.jpg"
+        ],
+        "price": 453,
+        "features": ["EF-S 18-55mm f/3.5-5.6 IS II Lens", "Memory Card", "Camera Bag", "Remote Switch", "Lens Cleaning Kit"],
+        "description": "Compact and capable, the Canon EOS Rebel T7 is a sleek entry-level DSLR featuring versatile imaging capabilities and a helpful feature-set. Incorporating a 24.1MP APS-C CMOS sensor and DIGIC 4+ image processor, the T7 produces high-resolution stills with notable clarity, reduced noise, and a flexible native sensitivity range from ISO 100-6400 for working in a variety of lighting conditions."
+      },
+      {
+        "id": 9,
+        "category": 0,
+        "type": 0,
+        "name": "Canon",
+        "model": "EOS 77D DSLR Camera 18-135mm",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/1491329149_1318767.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1491328925_IMG_751324.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1491329728_IMG_782029.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1491328927_IMG_751331.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1491328927_IMG_751333.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1491329149_1318767.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1491328925_IMG_751324.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1491329728_IMG_782029.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1491328927_IMG_751331.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1491328927_IMG_751333.jpg"
+        ],
+        "price": 638,
+        "features": ["EF-S 18-55mm f/4-5.6 IS STM Lens", "\n32GB SDHC Memory Card", "Camera Backpack", "Spare Rechargeable Lithium-Ion Battery", "External Dual Battery Charger", "External Microphone", "9V Alkaline Battery", "Shoulder Support Rig"],
+        "description": "Assembled for the aspiring filmmaker, the Canon EOS 77D DSLR Camera with 18-55mm Lens Video Kit from B&H bundles the compact, lightweight camera and standard zoom with a 32GB SDHC memory card, a camera backpack, a spare rechargeable lithium-ion battery, an external dual battery charger with one LP-E17 charging plate, an external."
+      },
+      {
+        "id": 10,
+        "category": 1,
+        "type": 0,
+        "name": "Canon",
+        "model": "EOS Rebel T8i DSLR Camera 18-55mm",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/canon_3924c002_eos_rebel_t8i_dslr_1581547604_1546031.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1581548522_IMG_1315979.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1581548522_IMG_1315978.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1581548522_IMG_1315976.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1581548522_IMG_1315977.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1581547604_1546031.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1581548522_IMG_1315979.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1581548522_IMG_1315978.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1581548522_IMG_1315976.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1581548522_IMG_1315977.jpg"
+        ],
+        "price": 899,
+        "features": ["24.1MP APS-C CMOS Senso", "DIGIC 8 Image Processor", "3.0\" 1.04m-Dot Vari-Angle Touchscreen", "UHD 4K24p Video, Vertical Video Support", "45-Point All Cross-Type Phase-Detect AF", "\nDual Pixel CMOS AF with Eye Detection", "ISO 100-25600, Up to 7 fps Shooting", "Built-In Wi-Fi and Bluetooth", "220,000-Pixel AE Sensor", "EF-S 18-55mm f/4-5.6 IS STM Lens"],
+        "description": "Designed for first-time shooters, but capable enough for advanced imaging tasks, the Canon EOS Rebel T8i is a versatile DSLR with well-rounded photo and video capabilities. Featuring a 24.1MP APS-C-format CMOS sensor and DIGIC 8 image processor, high-resolution stills and UHD 4K video recording are supported, along with a wide ISO 100-25600 sensitivity range to suit working in a variety of lighting conditions."
+      },
+      {
+        "id": 11,
+        "category": 0,
+        "type": 1,
+        "name": "Sony",
+        "model": "Alpha a7R IV Mirrorless Digital Camera 24-70mm f/2.8 Kit",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/1571855180_1495323.jpg",
+          "https://static.bhphoto.com/images/images500x500/sony_ilce7rm4_b_alpha_a7r_iv_mirrorless_1563273968_1494679.jpg",
+          "https://static.bhphoto.com/images/images500x500/sony_sel2470gm_fe_24_70mm_f_2_8_gm_1454496359_1222774.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1623330385_1645728.jpg",
+          "https://static.bhphoto.com/images/smallimages/1623257434_1645238.jpg",
+          "https://static.bhphoto.com/images/smallimages/1454496359_1222774.jpg"
+        ],
+        "price": 4.996,
+        "features": ["1MP Full-Frame Exmor R BSI CMOS Sensor", "BIONZ X Image Processor & Front-End LSI", "567-Point Phase-Detection AF System", "UHD 4K30p Video with HLG & S-Log3 Gammas", "5.76m-Dot Tru-Finder OLED EVF", "3.0\" 1.44m-Dot Tilting Touchscreen LCD", "Up to 10 fps Shooting, ISO 100-32000", "5-Axis SteadyShot INSIDE Stabilization", "240MP Pixel Shift Multi Shooting", "FE 24-70mm f/2.8 GM Lens"],
+        "description": "Moving to an even higher resolution realm, the Sony Alpha a7R IV continues the noteworthy series of highly capable full-frame cameras, characterized by impressive stills and video performance and versatility. This fourth edition of the a7R sees the inclusion of an updated 61MP Exmor R BSI CMOS sensor and enhanced BIONZ X image processor, which afford impressive imaging results with marked smoothness, a 15-stop dynamic range, and, of course, speed. Up to 10 fps shooting is possible along with the ability to record UHD 4K30 video, both with support for Real-time Eye AF and Tracking AF technologies. "
+      },
+      {
+        "id": 12,
+        "category": 1,
+        "type": 1,
+        "name": "Sony",
+        "model": "a6000 Mirrorless Digital Camera 16-50mm",
+        "images_x500": [
+          "https://www.bhphotovideo.com/images/images1000x1000/sony_ilce6000l_b_alpha_a6000_mirrorless_digital_1029860.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1401711782_IMG_370015.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1401711782_IMG_370016.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1401711782_IMG_370017.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1392158857_1029860.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1401711782_IMG_370015.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1401711782_IMG_370016.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1401711782_IMG_370017.jpg"
+        ],
+        "price": 648,
+        "features": ["24.3MP APS-C Exmor APS HD CMOS Sensor", "BIONZ X Image Processor", "Tru-Finder 0.39\" 1,440k-Dot OLED EVF", "3.0\" 921k-Dot Xtra Fine Tilting LCD", "Full HD 1080p XAVC S Video at 24/60 fps", "Built-In Wi-Fi Connectivity with NFC", "Fast Hybrid AF & 179 Phase-Detect Points", "\nUp to 11 fps Shooting and ISO 25600", "Multi-Interface Shoe and Built-In Flash", "Sony 16-50mm f/3.5-5.6 OSS Zoom Lens"],
+        "description": "The black Sony Alpha a6000 Mirrorless Digital Camera is a versatile and advanced mirrorless camera featuring a 24.3MP APS-C-sized Exmor APS HD CMOS sensor and BIONZ X image processor to produce high-resolution still images and Full HD movies with marked low-light quality and sensitivity to ISO 25600."
+      },
+      {
+        "id": 13,
+        "category": 0,
+        "type": 1,
+        "name": "Sony",
+        "model": "a6100 Mirrorless Digital Camera 16-50mm",
+        "images_x500": [
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1580213746_IMG_1310305.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1566990967_IMG_1242978.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1566990311_IMG_1242971.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1566990967_IMG_1242979.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1566990311_IMG_1242968.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1580213746_IMG_1310305.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1566990967_IMG_1242978.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1566990311_IMG_1242971.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1566990967_IMG_1242979.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1566990311_IMG_1242968.jpg"
+        ],
+        "price": 848,
+        "features": ["24.2MP APS-C Exmor CMOS Sensor", "BIONZ X Image Processo", "UHD 4K30p and Full HD 120p Video", "SVGA Tru-Finder 1.44m-Dot OLED EVF", "3.0\" 921.6k-Dot 180° Tilting Touchscreen", "Up to 11-fps Shooting, ISO 100-32000", "4D FOCUS with 425 Phase-Detect Points", "Real-Time Eye AF and Subject Tracking", "Built-In Wi-Fi and Bluetooth", "E PZ 16-50mm f/3.5-5.6 OSS Lens"],
+        "description": "Presenting a versatile feature-set in an especially compact design, the Sony a6100 is an APS-C-format mirrorless camera well-suited for stills and video applications. Featuring a 24.2MP CMOS sensor and a BIONZ X processor, capturing high-resolution stills with a broad sensitivity range and low noise is possible. The sensor and processor combination also affords UHD 4K video recording along with quick continuous shooting up to 11 fps for working with moving subjects."
+      },
+      {
+        "id": 14,
+        "category": 0,
+        "type": 0,
+        "name": "Sony",
+        "model": "Cyber-shot DSC-RX10 IV",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/sony_sony_rx10iv_digital_camera_1505211780_1361560.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1505236517_IMG_868050.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1505211426_IMG_868051.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1505297309_IMG_868052.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1505238199_IMG_868063.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1505211780_1361560.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1505236517_IMG_868050.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1505211426_IMG_868051.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1505297309_IMG_868052.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1505238199_IMG_868063.jpg"
+        ],
+        "price": 1.698,
+        "features": ["20.1MP 1\" Exmor RS BSI CMOS Sensor", "BIONZ X Image Processor & Front-End LSI", "Zeiss Vario-Sonnar T* f/2.4-4 Zoom Lens", "24-600mm (35mm Equivalent)", "2.36m-Dot OLED Tru-Finder EVF", "3.0\" 1.44m-Dot Tilting Touchscreen LCD", "UHD 4K30 Video, Full HD 1080p at 960 fps", "Fast Hybrid AF System with 315 Points", "ISO 12800 and 24 fps Continuous Shooting", "Built-In Wi-Fi and Bluetooth"],
+        "description": "Providing speed, reach, and versatile recording features, the Cyber-shot DSC-RX10 IV from Sony is a compact solution for the multimedia image-makers. Featuring an updated 20.1MP 1\" Exmor RS BSI CMOS sensor and BIONZ X image processor, the RX10 IV is capable of up to 24 fps shooting at ISO 12800, as well as recording UHD 4K/30p or Full HD 1080/120p video."
+      },
+      {
+        "id": 15,
+        "category": 1,
+        "type": 1,
+        "name": "Sony",
+        "model": "Alpha a7 II Mirrorless Digital Camera FE 28-70mm f/3.5-5.6 OSS",
+        "images_x500": [
+          "https://static.bhphoto.com/images/images500x500/sony_ilce7m2k_b_alpha_a7ii_mirrorless_digital_1416995453_1102009.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1416996019_IMG_443298.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1416996019_IMG_443297.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1416996019_IMG_443299.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1416996019_IMG_443300.jpg"
+        ],
+        "images_x55": [
+          "https://static.bhphoto.com/images/smallimages/1519677934_1394219.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1416996019_IMG_443298.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1416996019_IMG_443297.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1416996019_IMG_443299.jpg",
+          "https://static.bhphoto.com/images/multiple_images/thumbnails/1416996019_IMG_443300.jpg"
+        ],
+        "price": 1.598,
+        "features": ["24.3MP Full-Frame Exmor CMOS Sensor", "\nBIONZ X Image Processor", "5-Axis SteadyShot INSIDE Stabilization", "Enhanced Fast Hybrid AF and 5 fps Burst", "Full HD XAVC S Video and S-Log2 Gamma", "3.0\" 1,229k-Dot Tilting LCD Monitor", "XGA 2.36M-Dot OLED Electronic Viewfinder", "Weather-Resistant Magnesium Alloy Body", "Refined Grip & Robust Lens Mount", "Built-In Wi-Fi Connectivity with NFC"],
+        "description": "Sony has taken their line of full-frame cameras to the next level with the Alpha a7 II Mirrorless Digital Camera with FE 28-70mm f/3.5-5.6 OSS Lens, which features 5-axis SteadyShot INSIDE image stabilization with 4.5 stops of compensation for pitch, yaw, horizontal shift, vertical shift, and roll. Operation of the 24.3-megapixel series has been streamlined with a redesigned grip, shutter release button, and customizable controls."
+      }
+  ]
+}
