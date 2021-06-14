@@ -18,7 +18,7 @@ export const App = () => {
                     <Main />
                 </Route>
                 <Route exact path='/item/:id'>
-                    <Basket />
+                    <ItemPage />
                 </Route>
                 <Route exact path='/catalog'>
                     <Catalog />

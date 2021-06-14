@@ -6,6 +6,8 @@ import { fetchItems } from '../redux/actions/items'
 import {
     MainItem
 } from '../components'
+import { IItem } from '../types'
+
 
 export const Main = () => {
     const items = useSelector((state: any) => state.items)
@@ -17,7 +19,19 @@ export const Main = () => {
     }, [])
     return (
         <div>
-            Main page
+            {items.items.length && items.items.map((item: IItem) => {
+                const { name, model, description, price, images_500 } = item
+                console.log(item);
+                
+                return <MainItem 
+                    key={item.id}
+                    name={name}
+                    model={model}
+                    description={description}
+                    price={price}
+                    image={images_500[0]}
+                />
+            })}
         </div>
     )
 }

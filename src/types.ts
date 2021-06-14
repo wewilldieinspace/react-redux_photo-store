@@ -3,12 +3,21 @@ export interface IItem {
     model: string,
     category: number,
     type: number,
-    shortDescription: string,
+    // shortDescription: string,
     description: string,
     features: string[],
+    images_500: string[],
+    images_55: string[],
     price: number,
-    images: string[],
     id: number
+}
+
+export interface IMainPageItem {
+    name: string,
+    model: string,
+    description: string,
+    price: number,
+    image: string,
 }
 
 export interface ICatalogItem {
