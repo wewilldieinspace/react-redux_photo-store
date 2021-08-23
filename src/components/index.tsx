@@ -1,2 +1,8 @@
 export { MainNav } from './nav/MainNav'
 export { MainItem } from './item/MainItem'
+export { CatalogItem } from './item/CatalogItem'
+export { FilterCategory } from './filter-category/FilterCategory'
+export { Popup } from './filter-category/Popup'
+export { SelectItemButton } from './buttons/SelectItemButton'
+export { BasketItem } from './item/BasketItem'
+export { MessageBox } from './MessageBox/MessageBox'

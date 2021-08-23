@@ -6,14 +6,13 @@ import { store } from './redux/store'
 // Components
 import { App } from './App'
 // Style
-import './index.scss'
-
+import './index.css'
 
 render(
-    <Provider store={store}>
-        <Router>
-            <App />
-        </Router>
-    </Provider>,
-    document.querySelector('#root')
+	<Provider store={store}>
+		<Router>
+			<App />
+		</Router>
+	</Provider>,
+	document.querySelector('#root')
 )

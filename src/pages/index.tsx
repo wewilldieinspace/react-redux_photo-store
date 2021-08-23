@@ -1,4 +1,4 @@
 export { Main } from './main'
-export { ItemPage } from './itemPage'
+export { Item } from './item'
 export { Catalog } from './catalog'
 export { Basket } from './basket'

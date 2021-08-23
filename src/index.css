@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;700&display=swap');
+@import 'components\/nav/nav.style';
+@import 'components\/filter-category/filter.style';
+@import 'components\/item/catalog_item.style';
+@import 'components\/item/basket_item.style';
+@import 'components\/item/item.style';
+@import 'components\/MessageBox/MessageBox.style';
+@import 'pages\/pages.style';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Noto Sand JP', sans-serif;
+}
+
+p,
+h1,
+h2,
+h3,
+span {
+    cursor: default;
+}
+
+p:selection,
+h1:selection,
+h2:selection,
+h3:selection,
+span:selection {
+    color: #f5f5f7;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+}

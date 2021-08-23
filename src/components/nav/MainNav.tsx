@@ -24,8 +24,8 @@ export const MainNav = () => {
                     <li 
                         className='nav__button'>
                         <NavLink 
-                            to='/cart' activeClassName='nav--btn__active'
-                        >Cart</NavLink>
+                            to='/basket' activeClassName='nav--btn__active'
+                        >Basket</NavLink>
                     </li>
                 </ul>
             </nav>

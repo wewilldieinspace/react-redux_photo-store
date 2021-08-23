@@ -1,46 +1,61 @@
+import { rootReducer } from './redux/reducers'
+
+export type RootState = ReturnType<typeof rootReducer>
 export interface IItem {
-    name: string,
-    model: string,
-    category: number,
-    type: number,
-    // shortDescription: string,
-    description: string,
-    features: string[],
-    images_500: string[],
-    images_55: string[],
-    price: number,
-    id: number
+	name: string;
+	model: string;
+	category: number;
+	type: number;
+	description: string;
+	features: string[];
+	images_500: string[];
+	images_55: string[];
+	price: number;
+	id: number;
 }
 
 export interface IMainPageItem {
-    id: number,
-    name: string,
-    model: string,
-    description: string,
-    price: number,
-    image: string,
+	id: number;
+	name: string;
+	model: string;
+	description: string;
+	price: number;
+	image: string;
+	selectItemHandler: () => void
 }
 
 export interface ICatalogItem {
-    name: string,
-    model: string,
-    category: number,
-    type: number,
-    price: number,
-    images: string[],
-    id: number
+	name: string;
+	model: string;
+	price: number;
+	image: string;
+	selectItemHandler: () => void;
 }
 
-export interface ICartItem {
-    name: string,
-    model: string,
-    type: string,
-    image: string, 
-    id: number
+export interface IBasketItem {
+	name: string;
+	model: string;
+	price: number;
+	image: string; 
+	itemCounter?: number
+	totalPrice?: number
+	id: number;
 }
 
-export interface ISortItems {
-    name: string,
-    type: string,
-    elements: string[]
+export type Popup = {
+	filterBy: {
+		name: 'Category' | 'Type' | 'Brand',
+		elements: string[]
+	};
+	activeItem: number | null;
+	onChangeFilter: (arg: number | null) => void;
+	// onChangeFilter: (arg: OnChangeFilterPropTypes) => void;
+}
+
+type OnChangeFilterPropTypes = number | string | null;
+
+export type FilterElements = {
+	category: number | null,
+	type: number | null,
+	brand: number | null,
 }
