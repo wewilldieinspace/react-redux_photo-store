@@ -21,15 +21,14 @@ export interface IMainPageItem {
 	description: string;
 	price: number;
 	image: string;
-	selectItemHandler: () => void
 }
 
 export interface ICatalogItem {
+	itemId: number;
 	name: string;
 	model: string;
 	price: number;
 	image: string;
-	selectItemHandler: () => void;
 }
 
 export interface IBasketItem {
@@ -52,10 +51,23 @@ export type Popup = {
 	// onChangeFilter: (arg: OnChangeFilterPropTypes) => void;
 }
 
-type OnChangeFilterPropTypes = number | string | null;
-
 export type FilterElements = {
 	category: number | null,
 	type: number | null,
 	brand: number | null,
 }
+
+export type PersistedStore = {
+  basket: {
+        items: any;
+        totalPrice: number | null;
+        totalItems: number | null;
+      }
+    | string | never;
+  filter: {
+        type: number | null;
+        category: number | null;
+        brand: number | null;
+      }
+    | string | never;
+};

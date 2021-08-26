@@ -2,7 +2,7 @@ import { types } from '../actionTypes'
 import { AnyAction } from 'redux'
 
 
-const initialState: IInitialState = {
+export const initialState: IInitialState = {
 	items: {}, 
 	totalPrice: null,
 	totalItems: null
@@ -29,7 +29,7 @@ const getTotalItemsCounter = (items: any) => {
 	}, 0)
 }
 
-const basket = (state = initialState, action: AnyAction) => {
+export const basket = (state = initialState, action: AnyAction) => {
 	switch (action.type) {
 		case types.BASKET_ADD: {
 			const currentItems = !state.items[action.payload.id]
@@ -96,5 +96,3 @@ const basket = (state = initialState, action: AnyAction) => {
 		}
 	}
 }
-
-export { basket, initialState }

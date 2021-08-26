@@ -1,16 +1,16 @@
-import { types } from '../actionTypes'
-import { IBasketItem, IItem } from '../../types'
+import { types } from "../actionTypes";
+import { IItem } from "../../types";
 
 export const addToBasket = (item: IItem) => ({
-	type: types.BASKET_ADD,
-	payload: item
-})
+  type: types.BASKET_ADD,
+  payload: item,
+});
 
 export const deleteFromBasket = (id: number) => ({
-	type: types.BASKET_DELETE,
-	payload: id
-})
+  type: types.BASKET_DELETE,
+  payload: id,
+});
 
 export const confirmPurchase = () => ({
-	type: types.BASKET_BUY
-})
+  type: types.BASKET_BUY,
+});

@@ -1,6 +1,6 @@
 import React, { memo } from 'react'
 // Components
-import { Popup } from './Popup'
+// import { Popup } from './Popup'
 // Types
 // import { IPopup } from '../../types'
 
